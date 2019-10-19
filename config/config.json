@@ -1,0 +1,53 @@
+{
+  "development": {
+    "username": "root",
+    "password": "password",
+    "database": "movie_tracker",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+
+  },
+  "test": {
+    "username": "root",
+    "password": "password",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+
+  },
+  "production": {
+    "use_env_variable": "JAWSDB_URL",
+    "dialect": "mysql"
+  }
+}
+
+
+{
+  "development": {
+    "username": "vi0lz3nhvjef40zt",
+    "password": "il8fe8026ks499ul",
+    "port": 3306,
+    "database": "sjwuvmcf6bmjh9yr",
+    "host": "y0nkiij6humroewt.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    // "operatorAliases": false
+  },
+  "test": {
+    "username": "vi0lz3nhvjef40zt",
+    "password": "il8fe8026ks499ul",
+    "port": 3306,
+    "database": "sjwuvmcf6bmjh9yr",
+    "host": "y0nkiij6humroewt.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    // "operatorAliases": false
+  },
+  "production": {
+    "username": "vi0lz3nhvjef40zt",
+    "password": "il8fe8026ks499ul",
+    "port": 3306,
+    "database": "sjwuvmcf6bmjh9yr",
+    "host": "y0nkiij6humroewt.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    // "operatorAliases": false
+  }
+}

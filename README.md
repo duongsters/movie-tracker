@@ -1,10 +1,12 @@
 # Project-2: Movie Tracker
 
-## Demo link:
-https://sleepy-lowlands-10803.herokuapp.com/
+![Screenshot1](./public/images/gif.gif)
 
 ## Summary:
 Movie Tracker keeps a record of movies individual users have added to their wishlist. It also tracks the movies they have watched, categorizing them into ‘liked’ and ‘disliked’ columns. Given the amount of movies out there, Movie Tracker provides an easy way for users to keep a record of movies they wish to see, and whether or not they liked the movies they have already seen. 
+
+## Demo link:
+https://sleepy-lowlands-10803.herokuapp.com/
 
 ## File Structure:
 ![](public/images/file-structure.png)

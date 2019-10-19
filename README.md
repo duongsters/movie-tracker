@@ -121,4 +121,4 @@ function createMovieElement(response) {
 ## Author Links:
 [GitHub](https://github.com/duongsters)
 [LinkIn](https://www.linkedin.com/in/theandrewduong/)
-[Updated-Portfolio] (https://duongsters.github.io/updated-portfolio/)
+[Portfolio](https://www.duongsters.github.io/updated-portfolio/)

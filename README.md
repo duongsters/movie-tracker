@@ -118,7 +118,37 @@ function createMovieElement(response) {
 }
 ```
 
-## Author Links:
-[GitHub](https://github.com/duongsters)
-[LinkIn](https://www.linkedin.com/in/theandrewduong/)
-[Portfolio](https://www.duongsters.github.io/updated-portfolio/)
+# Author Links:
+
+## Andrew
+- [GitHub](https://github.com/duongsters) ||
+ [LinkIn](https://www.linkedin.com/in/theandrewduong/) ||
+ [Portfolio](https://www.duongsters.github.io/updated-portfolio/)
+
+#### Responsible for:
+- [server](https://github.com/duongsters/movie-tracker/blob/master/server.js)
+- [public (wishlist.html)](https://github.com/duongsters/movie-tracker/blob/master/server.js)
+- [public/js (wishlist.js)](https://github.com/duongsters/movie-tracker/blob/master/public/js/wishlist.js)
+- [public/css (styles.css)](https://github.com/duongsters/movie-tracker/blob/master/public/css/styles.css)
+
+### Oliver Sun
+- [GitHub](https://github.com/Olisun?tab=repositories) ||
+ [LinkIn](https://www.linkedin.com/in/oliver-sun-4b6baba/)
+#### Responsible for: 
+- [routes](https://github.com/duongsters/movie-tracker/tree/master/routes)
+- [schema](https://github.com/duongsters/movie-tracker/tree/master/schema)
+- [public/css (style.css)](https://github.com/duongsters/movie-tracker/blob/master/public/css/style.css)
+- [config](https://github.com/duongsters/movie-tracker/tree/master/config)
+- [public (user.html)](https://github.com/duongsters/movie-tracker/blob/master/public/user.html)
+- [models (index.js)](https://github.com/duongsters/movie-tracker/blob/master/models/index.js)
+- [public/js (particles.js)](https://github.com/duongsters/movie-tracker/blob/master/public/js/particles.js)
+
+
+### Jordan Hagood
+- [GitHub](https://github.com/hagoodj) ||
+ [LinkIn](https://www.linkedin.com/in/jordan-hagood-7b306410b/)
+#### Responsible for:
+- [models](https://github.com/duongsters/movie-tracker/tree/master/models)
+- [public/js (movietracker.js, wishlist.js)](https://github.com/duongsters/movie-tracker/tree/master/public/js)
+- [public (wishlist.html)](https://github.com/duongsters/movie-tracker/blob/master/public/wishlist.html)
+
